@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824937345001",
+    "project_id": "nine-men-s-mill-d202d",
+    "storage_bucket": "nine-men-s-mill-d202d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824937345001:android:454986e21c1401f681a578",
+        "android_client_info": {
+          "package_name": "com.example.nmm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824937345001-vafk3m77avk60s9pk472r63ipl6u1hg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgRIhs5_QLsMtUq1lcB5jXlCb_M06oeZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824937345001-vafk3m77avk60s9pk472r63ipl6u1hg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NMM</string>
+    <string name="rocks_left">Rocks left</string>
+    <string name="turn">Turn</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="winner">Winner</string>
+    <string name="start">Start</string>
+    <string name="scores">Scores</string>
+    <string name="retreat">Retreat</string>
+    <string name="save_results">Save results</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="delete">Delete</string>
+    <string name="login">Login</string>
+    <string name="nmm">NMM</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="an_old_english_board_game">An old English board game</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="register">Register</string>
+    <string name="back">Back</string>
+    <string name="logout">Logout</string>
+    <string name="reset">Reset</string>
+</resources>
